@@ -104,8 +104,7 @@ The notebook works with any texts that already have VADER scores and some outcom
 
 ## Data
 
-The case-study data is **not included**. The original research is being prepared for publication,
-so this repository shares only the method and the overall findings.
+The case-study data is **not included**. This repository shares only the method and the overall findings.
 
 ## Files
 
