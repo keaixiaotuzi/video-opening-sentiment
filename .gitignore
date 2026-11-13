@@ -1,0 +1,15 @@
+# Data and results: never commit these (thesis data is unpublished)
+*.csv
+*.xlsx
+*.json
+!.vscode/*.json
+*.txt
+*.zip
+
+# Notebook checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
